@@ -19,7 +19,10 @@ Here are the primary texts and topics from my advanced mathematics courses at Te
 * **General Topology**
     * **Primary Text:** *Topology* by James Munkres.
     * **Topics Covered:** Topological spaces, continuity, connectedness, compactness, countability axioms, and separation axioms.
-
+* **Advanced Calculus**
+    * **Primary Text:**Calculus On Manifolds** by Michael Spivak.
+    * **Topics Covered:** Differetiation and Integration on multivariables functions, Inverse Function Theorem, Implicit Function Theorem,
+    * Fubini's Theorem, Change Of Variables, Stoke's Theorem on Manifolds.
 * **Number Theory**
     * **Primary Text:** *An Introduction to the Theory of Numbers* by G. H. Hardy and E. M. Wright.
     * **Topics Covered:** Divisibility, congruences, prime numbers, Diophantine equations, and quadratic reciprocity.
