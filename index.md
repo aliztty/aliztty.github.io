@@ -10,7 +10,7 @@ Here are the primary texts and topics from my advanced mathematics courses at Te
 
 * **Algebraic Geometry**
     * **Primary Text:** *Ideals, Varieties, and Algorithms* by David A. Cox, John Little, and Donal O'Shea.
-    * **Topics Covered:** Affine varieties, Gröbner bases, the Hilbert Basis Theorem, polynomial rings, and the Nullstellensatz.
+    * **Topics Covered:** Affine varieties, Gröbner bases, the Hilbert Basis Theorem, and the Nullstellensatz.
 
 * **Galois Theory**
     * **Primary Text:** *Galois Theory* by Ian Stewart.
@@ -20,9 +20,9 @@ Here are the primary texts and topics from my advanced mathematics courses at Te
     * **Primary Text:** *Topology* by James Munkres.
     * **Topics Covered:** Topological spaces, continuity, connectedness, compactness, countability axioms, and separation axioms.
 * **Advanced Calculus**
-    * **Primary Text:**Calculus On Manifolds** by Michael Spivak.
-    * **Topics Covered:** Differetiation and Integration on multivariables functions, Inverse Function Theorem, Implicit Function Theorem,
-    * Fubini's Theorem, Change Of Variables, Stoke's Theorem on Manifolds.
+    * **Primary Text:** *Calculus On Manifolds* by Michael Spivak.
+    * **Topics Covered:** Multivariable Functions, Differentiation, Integration, Inverse-Function THM, Implicit-Function THM, Fubini's THM,
+    Stoke's Thm on Manifolds
 * **Number Theory**
     * **Primary Text:** *An Introduction to the Theory of Numbers* by G. H. Hardy and E. M. Wright.
     * **Topics Covered:** Divisibility, congruences, prime numbers, Diophantine equations, and quadratic reciprocity.
