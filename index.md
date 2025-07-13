@@ -35,7 +35,7 @@ Here are the primary texts and topics from my advanced mathematics courses at Te
 * Mathematical Analysis-I
     * **Primary Text:** *Principles Of Mathematical Analysis* by Walter Rudin and Mathematical Analysis by Apostol.
     * **Topics Covered:** Real and Complex Number systems, Basic Topology, Convergent Sequences, Cauchy Sequences, Series, Root Test, Ratio Test, Absolute Convergence, Addition and Multiplication of Series, Continuity, Compactness, Connectedness, Monotonic Function.
-Mathematical Analysis-II
+* Mathematical Analysis-II
 	* **Primary Text:** *Principles Of Mathematical Analysis* by Walter Rudin and Mathematical Analysis by Apostol.
 	* **Topics Covered:** Differentiation, The Mean-Value Theorem, The Taylor's Theorem, The Riemann-Stieltjes Integral, Integration of Differentiation, Sequence and Series of Functions, Uniform Convergence, The Stone-Weierstrass Theorem, Algebraic Completeness and The Gamma Function.
 * Complex Functions
