@@ -39,7 +39,7 @@ Mathematical Analysis-II
 	* **Primary Text:** *Principles Of Mathematical Analysis* by Walter Rudin and Mathematical Analysis by Apostol.
 	* **Topics Covered:** Differentiation, The Mean-Value Theorem, The Taylor's Theorem, The Riemann-Stieltjes Integral, Integration of Differentiation, Sequence and Series of Functions, Uniform Convergence, The Stone-Weierstrass Theorem, Algebraic Completeness and The Gamma Function.
 * Complex Functions
-	* * **Primary Text:** *Functions of One Complex Variables* by John B. Conway.
+	* **Primary Text:** *Functions of One Complex Variables* by John B. Conway.
 	* **Topics Covered:** Polar Representation, Uniform Convergence, Analytic Function, Mobius Transformation, Complex Riemann-Stieltjes Integration, Cauchy's Theorem, Zeros of an Analytic Function
 * Fundamental of Mathematics
 	* **Primary Text:** *Set Theory A First Course* by Daniel W. Cunningham.
