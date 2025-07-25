@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Ali Zare – Portfolio"
+---
+
 # Ali Zare's Academic & Technical Portfolio
 
 Welcome to my portfolio. This page provides additional details on my coursework and projects, expanding on my resume.
