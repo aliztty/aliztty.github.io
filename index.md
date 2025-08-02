@@ -24,9 +24,9 @@ Here are the primary texts and topics from my mathematics courses at University 
 *  **Algebra-I**  
    *Primary Text:* [*Abstract Algebra* by David S. Dummit & Richard M. Foote](https://www.google.com/books/edition/Abstract_Algebra/KIGbCgAAQBAJ?hl=en&kptab=getbook)
 
-   *Topics:* Group and Ring theory, Homomorphisms and Isomorphisms, Cyclic Groups, Lagrange's Theorem, Direct Products
+   *Topics:* Group and Ring Theory, Homomorphisms and Isomorphisms, Cyclic Groups, Lagrange's Theorem, Direct Products
 
-* **Algebra-II**  
+*  **Algebra-II**  
 
 *   *Primary Texts:* [*Abstract Algebra* by David S. Dummit & Richard M. Foote](https://www.google.com/books/edition/Abstract_Algebra/KIGbCgAAQBAJ?hl=en&kptab=getbook), [*Field and Galois Theory* by Patrick Morandi](https://www.google.com/books/edition/Field_and_Galois_Theory/x_DjBwAAQBAJ?hl=en&gbpv=0)
 
@@ -148,6 +148,6 @@ Implemented the continued fraction method to exploit RSA instances with small pr
 
 - **Email:** ali.zare.mh@gmail.com  
 - **GitHub:** [github.com/AL-IZ](https://github.com/AL-IZ)  
-- **LinkedIn:** [linkedin.com/ali-zare](https://linkedin.com/in/ali-zare-983463373)  
+- **LinkedIn:** [linkedin.com/ali-zare-983463373](https://linkedin.com/in/ali-zare-983463373)  
 - **GPG Key:** Available on request
 
