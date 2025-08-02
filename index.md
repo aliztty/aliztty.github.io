@@ -114,7 +114,6 @@ Here are the primary texts and topics from my mathematics courses at University 
 - **Systems:** Linux (LPIC-1/2 level), systemd, shell scripting  
 - **Security:** RSA, Diffie-Hellman, cryptographic attacks, CTF challenges  
 - **Tools:** Git, Vim, Joplin, Pandoc  
-- **Mathematics:** Abstract Algebra, Galois Theory, Topology, Graph Theory
 
 ---
 
