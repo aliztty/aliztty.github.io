@@ -19,10 +19,10 @@ Welcome! I'm **Ali Zare**, an undergraduate student of mathematics at the Univer
 
 ## Detailed Mathematical Coursework
 
-Here are the primary texts and topics from my mathematics courses at Tehran University:
+Here are the primary texts and topics from my mathematics courses at University of Tehran:
 
 *  **Algebra-I**  
-   *Primary Text:* *Abstract Algebra* by David S. Dummit, Richard M. Foote
+   *Primary Text:* [*Abstract Algebra* by David S. Dummit , Richard M. Foote](https://www.google.com/books/edition/Abstract_Algebra/KIGbCgAAQBAJ?hl=en&kptab=getbook)
    *Topics:* Group and Ring theory, Homomorphisms and Isomorphisms, Cyclic Groups, Lagrange's Theorem, Direct Products
 
 * **Algebra-II**  
