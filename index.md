@@ -22,11 +22,11 @@ Welcome! I'm **Ali Zare**, an undergraduate student of mathematics at the Univer
 Here are the primary texts and topics from my mathematics courses at Tehran University:
 
 *  **Algebra-I**  
-   *Primary Text:* *Abstract Algebra* by David S. Dummit, Richard M. Foote  
+   *Primary Text:* *Abstract Algebra* by David S. Dummit, Richard M. Foote
    *Topics:* Group and Ring theory, Homomorphisms and Isomorphisms, Cyclic Groups, Lagrange's Theorem, Direct Products
 
 * **Algebra-II**  
-   *Primary Texts:* *Abstract Algebra* by Dummit & Foote, *Field and Galois Theory* by Patrick Morandi  
+   *Primary Texts:* *Abstract Algebra* by Dummit & Foote, *Field and Galois Theory* by Patrick Morandi
    *Topics:* Galois theory, Finite field extensions, Hilbert Basis Theorem, PID/UFD/ED, Normal/Separable Extensions
 
 * **Mathematical Analysis-I**  
