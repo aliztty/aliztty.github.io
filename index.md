@@ -114,6 +114,6 @@ Implemented the continued fraction method to exploit RSA instances with small pr
 
 - **Email:** ali.zare.mh@gmail.com  
 - **GitHub:** [github.com/AL-IZ](https://github.com/AL-IZ)  
-- **LinkedIn:** (Add link if available)  
+- **LinkedIn:** [linkedin.com/ali-zare](www.linkedin.com/in/ali-zare-983463373)  
 - **GPG Key:** Available on request
 
