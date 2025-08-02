@@ -104,7 +104,7 @@ Here are the primary texts and topics from my mathematics courses at Tehran Univ
 
 ### 🔐 Weiner's Attack on RSA
 Implemented the continued fraction method to exploit RSA instances with small private keys. Explored rational approximations and convergents using Python.  
-➡ [GitHub Repo](#) (replace with actual link)
+➡ [GitHub Repo](#)
 
 <!-- Add additional projects here if needed -->
 
