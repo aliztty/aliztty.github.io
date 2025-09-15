@@ -1,1 +1,1 @@
-# AL-IZ.github.io
+# AlIZ.github.io
