@@ -26,8 +26,6 @@ Welcome! I'm **Ali Zare**, an undergraduate student of mathematics at the Univer
 
 ---
 
---
-
 ## Detailed Mathematical Coursework
 
 Here are the primary texts and topics from my mathematics courses at University of Tehran:
