@@ -10,12 +10,23 @@ Welcome! I'm **Ali Zare**, an undergraduate student of mathematics at the Univer
 ---
 
 ## 📚 Contents
-- [Mathematical Coursework](#detailed-mathematical-coursework)
 - [Technical Skills](#-technical-skills)
+- [Mathematical Coursework](#detailed-mathematical-coursework)
 - [Projects](#-selected-projects)
 - [Contact](#-contact)
 
+----
+
+## 🔧 Technical Skills
+
+- **Programming:** Python, Bash, LaTeX  
+- **Systems:** Linux (LPIC-1/2 level), systemd, shell scripting  
+- **Security:** RSA, Diffie-Hellman, cryptographic attacks, CTF challenges  
+- **Tools:** Git, Vim, Joplin, Pandoc  
+
 ---
+
+--
 
 ## Detailed Mathematical Coursework
 
@@ -105,15 +116,6 @@ Here are the primary texts and topics from my mathematics courses at University 
    *Primary Texts:* [*Calculus* by James Stewart](https://search.worldcat.org/title/1422865781) , [*Calculus A Complete Course* by Robert A. Adams & Christopher Essex](https://search.worldcat.org/title/1039886914?oclcNum=1039886914)
 
    *Topics:* Limits, Derivatives, Integrals, Sequences, Multivariable Calculus, Stokes’ and Green’s Theorems
-
----
-
-## 🔧 Technical Skills
-
-- **Programming:** Python, Bash, LaTeX  
-- **Systems:** Linux (LPIC-1/2 level), systemd, shell scripting  
-- **Security:** RSA, Diffie-Hellman, cryptographic attacks, CTF challenges  
-- **Tools:** Git, Vim, Joplin, Pandoc  
 
 ---
 
