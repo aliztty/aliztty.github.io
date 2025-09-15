@@ -20,9 +20,9 @@ Welcome! I'm **Ali Zare**, an undergraduate student of mathematics at the Univer
 ## 🔧 Technical Skills
 
 - **Programming:** Python, Bash, LaTeX  
-- **Systems:** Linux (LPIC-1/2 level), systemd, shell scripting  
-- **Security:** RSA, Diffie-Hellman, cryptographic attacks, CTF challenges  
-- **Tools:** Git, Vim, Joplin, Pandoc  
+- **Systems:** Linux (LPIC-1/2 level), shell scripting  
+- **Security:** cryptographic attacks, CTF challenges  
+- **Tools:** Git, Vim, Joplin, Pandoc
 
 ---
 
