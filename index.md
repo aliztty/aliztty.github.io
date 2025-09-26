@@ -124,12 +124,13 @@ Here are the primary texts and topics from my mathematics courses at University 
 Implemented the continued fraction method to exploit RSA instances with small private keys. Explored rational approximations and convergents using Python.  
 
 ### 🏧 ATM Simulator
-Developed a GUI using python (Tkinter) bank accounts management script with backend database. [aliztty/Atmp](https://github.com/aliztty/Atmp)
+Developed a GUI using Python (Tkinter) bank accounts management script with a backend database. [aliztty/Atmp](https://github.com/aliztty/Atmp)
 
 ---
 
 ## Resume
-You can download my resume frome [here](resume/resume.pdf)
+
+You can download my resume from [here](resume/resume.pdf)
 
 ---
 ## 📬 Contact
