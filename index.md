@@ -24,6 +24,7 @@ Welcome! I'm **Ali Zare**, an undergraduate student of mathematics at the Univer
 - **Tools & Platforms**: Joplin, Latex, Git, Vim, Pandoc.
 - **Systems:** Linux system admistrations (LPIC-1/2), Network Fundamentals, Dockers, Kubernetes.
 - **Interests:** Mathematics, Cryptography, CTFs, Secure Programming, Linux.
+
 ---
 
 ## Detailed Mathematical Coursework
@@ -126,9 +127,11 @@ Implemented the continued fraction method to exploit RSA instances with small pr
 Developed a GUI using python (Tkinter) bank accounts management script with backend database. [aliztty/Atmp](https://github.com/aliztty/Atmp)
 
 ---
+
 ## Resume
 You can download my resume frome [here](resume/resume.pdf)
 
+---
 ## 📬 Contact
 
 - **Email:** [ali.zare.mh@gmail.com](mailto:ali.zare.mh@gmail.com) , [zare.ali@ut.ac.ir](mailto:zare.ali@ut.ac.ir)
