@@ -14,6 +14,7 @@ Welcome! I'm **Ali Zare**, an undergraduate student of mathematics at the Univer
 - [Mathematical Coursework](#detailed-mathematical-coursework)
 - [Projects](#-selected-projects)
 - [Contact](#-contact)
+- [Resume](#-resume)
 
 ----
 
@@ -126,10 +127,12 @@ Implemented the continued fraction method to exploit RSA instances with small pr
 Developed a GUI using python (Tkinter) bank accounts management script with backend database. [aliztty/Atmp](https://github.com/aliztty/Atmp)
 
 ---
+## Resume
+You can download my resume frome [here](resume/resume.pdf)
 
 ## 📬 Contact
 
-- **Email:** ali.zare.mh@gmail.com  
+- **Email:** [ali.zare.mh@gmail.com](mailto:ali.zare.mh@gmail.com) , [zare.ali@ut.ac.ir](mailto:zare.ali@ut.ac.ir)
 - **GitHub:** [github.com/aliztty](https://github.com/aliztty)  
 - **LinkedIn:** [linkedin.com/ali-zare-983463373](https://linkedin.com/in/ali-zare-983463373)  
 - **GPG Key:** Available on request
