@@ -14,7 +14,7 @@ Welcome! I'm **Ali Zare**, an undergraduate student of mathematics at the Univer
 - [Mathematical Coursework](#detailed-mathematical-coursework)
 - [Projects](#-selected-projects)
 - [Contact](#-contact)
-- [Resume](#-resume)
+- [Resume](#resume)
 
 ----
 
@@ -29,7 +29,7 @@ Welcome! I'm **Ali Zare**, an undergraduate student of mathematics at the Univer
 
 ## Detailed Mathematical Coursework
 
-Here are the primary texts and topics from my mathematics courses at University of Tehran:
+Here are the primary texts and topics from my mathematics courses at the University of Tehran:
 
 *  **Algebra-I**  
    *Primary Text:* [*Abstract Algebra* by David S. Dummit & Richard M. Foote](https://www.google.com/books/edition/Abstract_Algebra/KIGbCgAAQBAJ?hl=en&kptab=getbook)
@@ -64,7 +64,7 @@ Here are the primary texts and topics from my mathematics courses at University 
 * **Advanced Calculus**  
    *Primary Text:* [*Calculus on Manifolds* by Spivak](https://www.google.com/books/edition/Calculus_on_Manifolds/oMGc3zwvw34C?hl=en&gbpv=0)
 
-   *Topics:* Multivariable Calculus, Differential Forms, Stoke’s Theorem
+   *Topics:* Multivariable Calculus, Differential Forms, Stokes’ Theorem
 
 * **Elementary Number Theory**  
    *Primary Text:* [*Elementary Number Theory and Its Applications* by Rosen](https://www.google.com/books/edition/Elementary_Number_Theory_and_Its_Applica/HOMZAQAAIAAJ?hl=en&gbpv=0&bsq=Elementary%20Number%20Theory%20and%20its%20application%20by%20Kenneth%20H.%20Rosen%20edition%205th)
