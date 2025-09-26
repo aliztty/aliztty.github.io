@@ -3,9 +3,9 @@ layout: default
 title: "Ali Zare – Portfolio"
 ---
 
-# Ali Zare – Academic & Technical Portfolio
+# Academic & Technical Portfolio
 
-Welcome! I'm **Ali Zare**, an undergraduate student of mathematics at the University of Tehran, driven by a passion for rigorous problem solving, open-source technologies, and the mathematical foundations of cryptography. This portfolio expands on my resume with a deeper look into my academic background and technical projects, curated for those interested in mathematical depth, applied number theory, and Linux system internals.
+Welcome! I'm **Ali Zare**, an undergraduate student of mathematics at the University of Tehran, driven by a passion for rigorous problem solving, open-source technologies, and the mathematical foundations of cryptography. This portfolio expands on my resume with a deeper look into my academic background and technical projects, curated for those interested in mathematical depth.
 
 ---
 
@@ -20,11 +20,10 @@ Welcome! I'm **Ali Zare**, an undergraduate student of mathematics at the Univer
 
 ## 🔧 Technical Skills
 
-- **Programming:** Python, Bash, LaTeX  
-- **Systems:** Linux (LPIC-1/2 level), shell scripting  
-- **Security:** cryptographic attacks, CTF challenges  
-- **Tools:** Git, Vim, Joplin, Pandoc
-
+- **Programming:** Python, Bash.
+- **Tools & Platforms**: Joplin, Latex, Git, Vim, Pandoc.
+- **Systems:** Linux system admistrations (LPIC-1/2), Network Fundamentals, Dockers, Kubernetes.
+- **Interests:** Mathematics, Cryptography, CTFs, Secure Programming, Linux.
 ---
 
 ## Detailed Mathematical Coursework
