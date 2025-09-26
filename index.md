@@ -135,6 +135,6 @@ You can download my resume from [here](resume/resume.pdf)
 
 - **Email:** [ali.zare.mh@gmail.com](mailto:ali.zare.mh@gmail.com) , [zare.ali@ut.ac.ir](mailto:zare.ali@ut.ac.ir)
 - **GitHub:** [github.com/aliztty](https://github.com/aliztty)  
-- **LinkedIn:** [linkedin.com/ali-zare-983463373](https://linkedin.com/in/ali-zare-983463373)  
+- **LinkedIn:** [linkedin.com/aliiztty](https://linkedin.com/in/aliztty)  
 - **GPG Key:** Available on request
 
