@@ -117,7 +117,6 @@ Here are the primary texts and topics from my mathematics courses at University 
    *Topics:* Limits, Derivatives, Integrals, Sequences, Multivariable Calculus, Stokes’ and Green’s Theorems
 
 ---
-
 ## 🧪 Selected Projects
 
 ### 🔐 Wiener's Attack on RSA
@@ -127,7 +126,6 @@ Implemented the continued fraction method to exploit RSA instances with small pr
 Developed a GUI using Python (Tkinter) bank accounts management script with a backend database. [aliztty/Atmp](https://github.com/aliztty/Atmp)
 
 ---
-
 ## Resume
 
 You can download my resume from [here](resume/resume.pdf)
