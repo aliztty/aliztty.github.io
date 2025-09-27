@@ -86,5 +86,3 @@ Here are the primary texts and topics from my mathematics courses at University 
    *Primary Texts:* [*Calculus* by James Stewart](https://search.worldcat.org/title/1422865781) , [*Calculus A Complete Course* by Robert A. Adams & Christopher Essex](https://search.worldcat.org/title/1039886914?oclcNum=1039886914)
 
    *Topics:* Limits, Derivatives, Integrals, Sequences, Multivariable Calculus, Stokes’ and Green’s Theorems
-
--
