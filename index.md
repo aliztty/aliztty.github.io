@@ -11,9 +11,9 @@ Welcome! I'm **Ali Zare**, an undergraduate student of mathematics at the Univer
 
 ## 📚 Contents
 - [Resume](#-resume)
-- [Mathematical Coursework](courseworks/mathematicalcoureworks.md)
 - [Projects](#-selected-projects)
 - [Technical Skills](#-technical-skills)
+- [Mathematical Coursework](courseworks/mathematicalcourseworks.md)
 - [Contact](#-contact)
 
 ---
