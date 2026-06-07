@@ -1,34 +1,33 @@
 % ============================
-% Resume - Ali Zare
+% Resume - Aliz
 % ============================
 
-\documentclass[10pt,article]{article}
+\documentclass[10pt, letterpaper]{article}
 
 % --------------------------------------------------
 % Encoding & Fonts
 % --------------------------------------------------
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
-\usepackage{palatino} % main font
-\fontfamily{SansSerif}\selectfont % force sans serif look
+\usepackage{libertinus}
 
 % --------------------------------------------------
 % Page Geometry & Layout
 % --------------------------------------------------
-\usepackage[letterpaper,margin=0.3in]{geometry}
-\textheight=9.75in
+\usepackage[margin=0.4in]{geometry}
 \raggedbottom
 
 % --------------------------------------------------
-% Colors
+% Colors & Graphics
 % --------------------------------------------------
 \usepackage{xcolor}
-\definecolor{mygrey}{gray}{0.82}
+\usepackage{graphicx}
+\definecolor{mygrey}{gray}{0.80}
+\definecolor{link}{RGB}{24, 84, 141}
 
 % --------------------------------------------------
 % Packages
 % --------------------------------------------------
-\usepackage{graphicx}
 \usepackage{booktabs}
 \usepackage{url}
 \usepackage{enumitem}
@@ -40,36 +39,29 @@
 % --------------------------------------------------
 \hypersetup{
     colorlinks=true,
-    urlcolor=cyan,
+    urlcolor=link,
     pdfauthor={Ali Zare},
-    pdftitle={Resume - Ali Zare}
+    pdftitle={Ali Zare - Resume}
 }
 
 % --------------------------------------------------
-% List Formatting
+% Global List Formatting
 % --------------------------------------------------
 \renewcommand{\labelitemii}{$\circ$}
 \setlength{\tabcolsep}{0in}
 
-% --------------------------------------------------
-% Custom Spacing Macros
-% (used in the original document)
-% --------------------------------------------------
-\newcommand{\isep}{-2 pt}
-\newcommand{\lsep}{-0.5cm}
-\newcommand{\psep}{-0.6cm}
+\setlist[itemize,1]{leftmargin=*, topsep=0pt, partopsep=0pt, itemsep=0.3cm, parsep=0pt}
+
+\setlist[itemize,2]{leftmargin=1.5em, topsep=0.1cm, partopsep=0pt, itemsep=0.15cm, parsep=0pt}
 
 % --------------------------------------------------
 % Custom Commands
 % --------------------------------------------------
-\newcommand{\resitem}[1]{\item #1 \vspace{-2pt}}
 \newcommand{\resheading}[1]{%
-  {\small \colorbox{mygrey}{%
-  \begin{minipage}{0.99\textwidth}\centering \textbf{#1 \vphantom{p\^{E}}}\end{minipage}}}}
-\newcommand{\ressubheading}[3]{%
-\begin{tabular*}{6.62in}{l @{\extracolsep{\fill}} r}
-	\textsc{\textbf{#1}} & \rightline\textsc{\textit{[#2]}} \\
-\end{tabular*}\vspace{-8pt}}
+  \vspace{0.3cm}
+  \noindent{\small \colorbox{mygrey}{%
+  \begin{minipage}{\dimexpr\textwidth-2\fboxsep\relax}\centering \textbf{#1 \vphantom{p\^{E}}}\end{minipage}}}
+  \par\vspace{0.2cm}}
 
 % --------------------------------------------------
 % Document
@@ -80,133 +72,116 @@
 % --------------------------------------------------
 % Header
 % --------------------------------------------------
-\begin{table}
-\begin{minipage}{.45\linewidth}
-      \begin{flushleft}
-      	\textbf{\Large Ali Zare} \\
-	    \textbf{BSc in Mathematics} \\
-        University of Tehran
-      \end{flushleft}
+\noindent
+\begin{minipage}[t]{.45\linewidth}
+    \textbf{\Large Ali Zare} \\
+    \textbf{BSc in Mathematics} \\
+    University of Tehran
 \end{minipage}
-\hfill
-\begin{minipage}{.45\linewidth}
-      \begin{flushright}
-	\href{tel:+989108651234}{+98 9108651234}\\
-	\href{mailto:ali.zare.mh@gmail.com}{ali.zare.mh@gmail.com} \\
-	\href{https://github.com/aliztty}{github.com/aliztty}
-      \end{flushright}
+\hfill 
+\begin{minipage}[t]{.45\linewidth}
+      \raggedleft
+      \href{tel:+989108651234}{+98 9108651234}\\
+      \href{mailto:ali.zare.mh@gmail.com}{ali.zare.mh@gmail.com} \\
+      \href{https://github.com/aliztty}{github.com/aliztty}
 \end{minipage}
-\end{table}
+\vspace{0.4cm}
 
 % --------------------------------------------------
 % Education
 % --------------------------------------------------
-\noindent
-\resheading{EDUCATION}\\[0.4cm]
-\textbf{BSc in Mathematics, University of Tehran} \hfill {[2021 – 2025]}\\
+\resheading{EDUCATION}
+\noindent \textbf{BSc in Mathematics, University of Tehran} \hfill {[2021 -- 2025]}
 
 % --------------------------------------------------
 % CERTIFICATIONS
 % --------------------------------------------------
-\noindent
-\resheading{CERTIFICATION COURSEWORK}\\[-0.4cm]
+\resheading{CERTIFICATION \& COURSEWORK}
 \begin{itemize}
-\setlength\itemsep{0.1cm}
-  \item \textbf{LPIC-1}: Linux Professional Institute Certified Level 1
-  \item \textbf{LPIC-2}: Linux Professional Institute Certified Level 2
+  \item \textbf{LPIC-2}: Linux Professional Institute Certified Level 2 (Equivalent Knowledge)
+  \item \textbf{LPIC-1}: Linux Professional Institute Certified Level 1 (Equivalent Knowledge)
   \item \textbf{CEH}: Certified Ethical Hacker ( In Progress )
 \end{itemize}
 
 % --------------------------------------------------
 % Skills
 % --------------------------------------------------
-\noindent
-\resheading{TECHNICAL SKILLS}\\[-0.5cm]
-
+\resheading{TECHNICAL SKILLS}
 \begin{itemize}
-	\item \textbf{Programming Languages}: Python, Bash.\\[-0.5cm]
-  \item \textbf{Databases}: PostgreSQL.\\[-0.5cm]
-  \item \textbf{Developer Tools}: Git, Vim, Docker, Kubernetes, Pandoc, \LaTeX.\\[-0.5cm]
-  \item \textbf{OS \& Networking}: Linux System Administration, Network Fundamentals. \\[-0.5cm]
-  \item \textbf{Interests}: Mathematics, Cryptography, CTFs, Secure Programming, Linux.
+  \item \textbf{Backend Development}: Python, FastAPI, SQLAlchemy.
+  \item \textbf{Databases}: PostgreSQL.
+  \item \textbf{Infrastructure \& OS}: Linux (RHEL/Debian/Arch), systemd, Networking, Bash.
+  \item \textbf{Developer Tools}: Vim, Git, Docker, Kubernetes, \LaTeX, TikZ.
+  \item \textbf{Domain Knowledge}: Mathematical Cryptography, Coding Theory, CTF Methodologies.
 \end{itemize}
 
 % --------------------------------------------------
 % Projects
 % --------------------------------------------------
-\noindent
-\resheading{PROJECTS}\\[-0.5cm]
-
+\resheading{PROJECTS}
 \begin{itemize}
-\setlength\itemsep{0.5em}
+\item \textbf{\href{https://github.com/aliztty/Atmp}{ATM Simulator}} \hfill {[Nov 2021 -- Dec 2021]}
+    \begin{itemize}
 
-\item \textbf{\href{https://github.com/aliztty/Atmp}{ATM Simulator}} \hfill {[Nov 2021 – Dec 2021]}
-	\begin{itemize}[noitemsep,nolistsep]
-	\setlength{\itemsep}{0.2cm}
-	\item Implemented core banking features including fund transfers, withdrawals, PIN management, and balance inquiries.
-	\item Developed a user-friendly GUI with Python's Tkinter library to provide a seamless banking experience.
-	\end{itemize}
+    \item Developed a Tkinter Python GUI for core financial simulation mechanics.
+    \item Integrated SQLite backend to persist account states, transfers, and balances.
+    \item Refactored legacy codebase to implement strict Poetry dependency management.
 
-\item \textbf{Weiner’s Attack on RSA} \hfill {[Aug 2022 – Sep 2022]}
-	\begin{itemize}[noitemsep,nolistsep]
-	\setlength{\itemsep}{0.2cm}
-	\item Implemented Wiener's attack using elementary number theory tools.
-	\item Analyzed RSA vulnerabilities under low private exponent conditions and formulated potential countermeasures.
-	\end{itemize}
+    \end{itemize}
 
+\item \textbf{Weiner’s Attack on RSA} \hfill {[Aug 2022 -- Sep 2022]}
+    \begin{itemize}
+    \item Implemented Wiener's attack using elementary number theory tools and continued fraction expansions.
+    \item Analyzed RSA vulnerabilities under low private exponent conditions and formulated mathematical countermeasures.
+    \end{itemize}
 \end{itemize}
 
 % --------------------------------------------------
 % Courses
 % --------------------------------------------------
-\noindent
-\resheading{RELEVANT ACADEMIC COURSES}\\[0.1pt]
-\begin{itemize}[noitemsep,nolistsep]
-	\item Introduction to Cryptography, \href{https://github.com/aliztty/Mcrypto?tab=readme-ov-file}{Introduction to Mathematical Cryptography}.\\[0.1pt]
+\resheading{RELEVANT ACADEMIC COURSES}
+\begin{itemize}
+    \item \href{https://github.com/aliztty/Mcrypto?tab=readme-ov-file}{Introduction to Mathematical Cryptography}, Introduction to Cryptography.
 \end{itemize}
 
 % --------------------------------------------------
 % Extracurricular
 % --------------------------------------------------
-\noindent
-\resheading{EXTRACURRICULAR ACTIVITIES}\\[-0.45cm]
-
+\resheading{EXTRACURRICULAR ACTIVITIES}
 \begin{itemize}
-\setlength\itemsep{0.1cm}
-\item \textbf{Quera Security Hackathon} \hfill {[Apr 2023]}\\[0.1cm]
-	\href{https://quera.org/media/public/quera_certificate/e086b9784d5544bc82780bea6581cf4a.jpg}{Certificate Link}
-	\begin{itemize}[noitemsep,nolistsep]
-		\setlength{\itemsep}{0.1cm}
-		\item Competed in a security-focused hackathon hosted by \textbf{Quera}.
-		\item Focused on cryptographic problem-solving and Linux-based challenges.
-	\end{itemize}
+\item \textbf{Quera Security Hackathon} (\href{https://quera.org/media/public/quera_certificate/e086b9784d5544bc82780bea6581cf4a.jpg}{Certificate}) \hfill {[Apr 2023]}
+    \begin{itemize}
+        \item Competed in a security-focused hackathon hosted by \textbf{Quera}.
+        \item Focused on cryptographic problem-solving and Linux-based challenges.
+    \end{itemize}
 
-\item \textbf{CTF Competitor} \hfill {[2022 Present]}
-	\begin{itemize}[noitemsep,nolistsep]
-	  \item Competed in various CTFs, specializing in cryptographic challenges.
-	\end{itemize}
+\item \textbf{CTF Competitor} \hfill {[2022 -- Present]}
+    \begin{itemize}
+      \item Competed in various CTFs, specializing in cryptographic challenges.
+    \end{itemize}
 \end{itemize}
 
 % --------------------------------------------------
 % Portfolio
 % --------------------------------------------------
-\noindent
-\resheading{ONLINE PORTFOLIO}\\[-0.5em]
+\resheading{ONLINE PORTFOLIO}
 \begin{itemize}
-\item \href{https://github.com/aliztty}{GitHub: github.com/aliztty} \\
-	Project source code and coursework repository.
-\item \href{https://aliztty.github.io/}{Portfolio: aliztty.github.io}\\
-    Notes and writeups on detailed projects and courses.
+\item GitHub: \href{https://github.com/aliztty}{github.com/aliztty}
+    \begin{itemize}
+        \item Project source code and coursework repository.
+    \end{itemize}
+\item Portfolio: \href{https://aliztty.github.io/}{aliztty.github.io}
+    \begin{itemize}
+        \item Notes and writeups on detailed projects and courses.
+    \end{itemize}
 \end{itemize}
 
 % --------------------------------------------------
 % Languages
 % --------------------------------------------------
-\noindent
-\resheading{LANGUAGES}\\[-0.5em]
-\begin{itemize}[noitemsep,nolistsep]
-	\item \textbf{Persian} (Native), \textbf{English} (Fluent)
+\resheading{LANGUAGES}
+\begin{itemize}
+    \item \textbf{Persian} (Native), \textbf{English} (Fluent)
 \end{itemize}
 
 \end{document}
-
