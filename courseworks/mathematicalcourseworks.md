@@ -32,6 +32,11 @@ Here are the primary texts and topics from my mathematics courses at University 
 
    *Topics:* Topological spaces, Continuity, Connectedness, Compactness, Tychonoff Theorem
 
+* **Algebraic Topology**  
+   *Primary Texts:* [*Homotopy Theory: An Introduction to Algebraic Topology* by Brayton Gray](https://books.google.com/books/about/Homotopy_Theory.html?id=BfiCAQAACAAJ), [*Homology Theory: An Introduction to Algebraic Topology* by James W. Vick](https://books.google.com/books/about/Homology_Theory.html?id=ulTvAAAAMAAJ)
+
+   *Topics:* Homotopy groups, CW complexes, Fibrations and cofibrations, Homology theory, Exact sequences
+
 * **Advanced Calculus**  
    *Primary Text:* [*Calculus on Manifolds* by Spivak](https://www.google.com/books/edition/Calculus_on_Manifolds/oMGc3zwvw34C?hl=en&gbpv=0)
 
