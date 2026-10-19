@@ -1,3 +1,6 @@
-theme: jekyll-yamt
+remote_theme: PandaSekh/Jekyll-YAMT
+plugins:
+  - jekyll-remote-theme
+
 title: Ali Zare
 description: Abstract Tools Hunt Real Vulnerabilities
