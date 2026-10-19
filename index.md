@@ -5,46 +5,32 @@ title: "Ali Zare"
 
 # Academic & Technical Portfolio
 
-I am **Ali Zare**, an undergraduate mathematics student at the University of Tehran, driven by rigorous problem solving, open-source infrastructure, and the mathematical foundations of cryptography. This portfolio expands on my curriculum vitae with a deeper look into my academic background and technical projects.
+Bachelor in Mathematics at [University of Tehran](https://ut.ac.ir/en).
+
+Master student in Mathematics at [Tehran Polytechnic](https://aut.ac.ir/en).
 
 **[Curriculum Vitae (PDF)](resume/resume.pdf)**
 
 ---
 
-##  Contents
-- [Resume](#-resume)
-- [Projects](#-selected-projects)
-- [Technical Skills](#-technical-skills)
-- [Mathematical Coursework](courseworks/mathematicalcourseworks.md)
-- [Contact](#-contact)
-
----
-
-## Resume
+# Resume
 Download my Curriculum Vitae [here](resume/resume.pdf)
 
 ---
 
-##  Selected Projects
+#  Selected Projects
 
-###  Wiener's Attack on RSA
-Implemented the continued fraction method to exploit RSA instances with small private keys. Explored rational approximations and convergents using Python.  
+## Chaotic Cryptography (B.Sc. Thesis)
+Weakness of Baptista cryptosystem, and providing mathematical solution for each.
 
-###  ATM Simulator
+Advisor: [Gholamreza Rokni Lamouki](https://scholar.google.com/citations?user=u3GzOMEAAAAJ&hl=en)
+
+##  ATM Simulator
 Developed a GUI using python (Tkinter) bank accounts management script with backend database. [aliztty/Atmp](https://github.com/aliztty/Atmp)
 
 ---
 
-##  Technical Skills
-
-- **Programming:** Python, Bash, SQL, LaTeX.
-- **Tools & Platforms**: Joplin, Latex, Git, Vim, Pandoc.
-- **Systems & DevOps:** Linux(LPIC-1/2), Git.
-- **Research Interests:** Cryptanalysis, Dynamical Systems, Number Theory ($p$-adic analysis).
-
----
-
-##  Contact
+#  Contact
 
 - **Academic Email:** [zare.ali@ut.ac.ir](mailto:zare.ali@ut.ac.ir)
 - **Personal Email:** [ali.zare.mh@gmail.com](mailto:ali.zare.mh@gmail.com)

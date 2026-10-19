@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en-US' }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title | default: site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  </head>
+  <body>
+    <header class="page-header" role="banner">
+      <h1 class="project-name">{{ site.title }}</h1>
+      <h2 class="project-tagline">{{ site.description }}</h2>
+      
+      <!-- Custom Header Buttons -->
+      <a href="{{ '/courseworks/mathematicalcourseworks.html' | relative_url }}" class="btn">Mathematical Coursework</a>
+      <a href="{{ '/resume/resume.pdf' | relative_url }}" class="btn">Curriculum Vitae</a>
+      <a href="https://github.com/aliztty" class="btn">GitHub Profile</a>
+    </header>
+
+    <main id="content" class="main-content" role="main">
+      {{ content }}
+
+      <footer class="site-footer">
+        <span class="site-footer-credits">Hosted on GitHub Pages &mdash; {{ site.title }}</span>
+      </footer>
+    </main>
+  </body>
+</html>
