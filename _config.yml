@@ -1,3 +1,5 @@
-remote_theme: jekyll/minima
+theme: jekyll-theme-cayman
+github:
+  is_project_page: false
 title: Ali Zare
 description: Abstract Tools Hunt Real Vulnerabilities
