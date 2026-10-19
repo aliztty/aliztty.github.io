@@ -2,25 +2,17 @@
 
 Here are the primary texts and topics from my mathematics courses at University of Tehran:
 
-*  **Algebra-I**  
-   *Primary Text:* [*Abstract Algebra* by David S. Dummit & Richard M. Foote](https://www.google.com/books/edition/Abstract_Algebra/KIGbCgAAQBAJ?hl=en&kptab=getbook)
+*  **Algebra-I/II**  
+   *Primary Text:* [*Abstract Algebra* by David S. Dummit & Richard M. Foote](https://www.google.com/books/edition/Abstract_Algebra/KIGbCgAAQBAJ?hl=en&kptab=getbook), [*Field and Galois Theory* by Patrick Morandi](https://www.google.com/books/edition/Field_and_Galois_Theory/x_DjBwAAQBAJ?hl=en&gbpv=0)
 
-   *Topics:* Group and Ring Theory, Homomorphisms and Isomorphisms, Cyclic Groups, Lagrange's Theorem, Direct Products
+   *Topics:* Group and Ring Theory, Homomorphisms and Isomorphisms, Cyclic Groups, Lagrange's Theorem, Direct Products,
+           Galois theory, Finite field extensions, Hilbert Basis Theorem, PID/UFD/ED, Normal/Separable Extensions
 
-*  **Algebra-II**  
-*   *Primary Texts:* [*Abstract Algebra* by David S. Dummit & Richard M. Foote](https://www.google.com/books/edition/Abstract_Algebra/KIGbCgAAQBAJ?hl=en&kptab=getbook), [*Field and Galois Theory* by Patrick Morandi](https://www.google.com/books/edition/Field_and_Galois_Theory/x_DjBwAAQBAJ?hl=en&gbpv=0)
-
-*   *Topics:* Galois theory, Finite field extensions, Hilbert Basis Theorem, PID/UFD/ED, Normal/Separable Extensions
-
-* **Mathematical Analysis-I**  
+* **Mathematical Analysis-I/II**  
    *Primary Texts:* [*Principles of Mathematical Analysis* by Rudin](https://www.google.com/books/edition/Principles_of_Mathematical_Analysis/yifvAAAAMAAJ?hl=en&gbpv=0&bsq=principal%20of%20mathematical%20analysis%20by%20rudin), [*Mathematical Analysis* by Apostol](https://www.google.com/books/edition/Mathematical_Analysis/ZRK-PAAACAAJ?hl=en)
 
-   *Topics:* Sequences, Series, Continuity, Compactness, Connectedness, Real/Complex number systems
+   *Topics:* Sequences, Series, Continuity, Compactness, Connectedness, Real/Complex number systems, Differentiation, Taylor's Theorem, Riemann-Stieltjes Integral, Uniform Convergence, Gamma Function
 
-* **Mathematical Analysis-II**  
-   *Primary Texts:* [*Principles of Mathematical Analysis* by Rudin](https://www.google.com/books/edition/Principles_of_Mathematical_Analysis/yifvAAAAMAAJ?hl=en&gbpv=0&bsq=principal%20of%20mathematical%20analysis%20by%20rudin), [*Mathematical Analysis* by Apostol](https://www.google.com/books/edition/Mathematical_Analysis/ZRK-PAAACAAJ?hl=en)
-
-   *Topics:* Differentiation, Taylor's Theorem, Riemann-Stieltjes Integral, Uniform Convergence, Gamma Function
 
 * **Elementary Algebraic Geometry**  
    *Primary Text:* [*Ideals, Varieties, and Algorithms* by David Cox & John Little & John B. Little & DONAL OSHEA](https://www.google.com/books/edition/Ideals_Varieties_and_Algorithms/rvHiBwAAQBAJ?hl=en&gbpv=0)
@@ -32,7 +24,7 @@ Here are the primary texts and topics from my mathematics courses at University 
 
    *Topics:* Topological spaces, Continuity, Connectedness, Compactness, Tychonoff Theorem
 
-* **Algebraic Topology**  
+* ** Elementary Algebraic Topology**  
    *Primary Texts:* [*Homotopy Theory: An Introduction to Algebraic Topology* by Brayton Gray](https://books.google.com/books/about/Homotopy_Theory.html?id=BfiCAQAACAAJ), [*Homology Theory: An Introduction to Algebraic Topology* by James W. Vick](https://books.google.com/books/about/Homology_Theory.html?id=ulTvAAAAMAAJ)
 
    *Topics:* Homotopy groups, CW complexes, Fibrations and cofibrations, Homology theory, Exact sequences
@@ -67,12 +59,12 @@ Here are the primary texts and topics from my mathematics courses at University 
 
    *Topics:* Induction, Pigeonhole Principle, Generating Functions
 
-* **Linear Optimization-I**  
+* **Linear Optimization**  
    *Primary Text:* [*Linear Programming and Network Flows* by Mokhtar S. Bazaraa & John J. Jarvis & Hanif D. Sherali](https://www.google.com/books/edition/Linear_Programming_and_Network_Flows/AW9v7GyuncsC?hl=en&gbpv=0)
 
    *Topics:* Simplex Method, Duality, KKT Conditions, Convex Sets
 
-* **Probability-I**  
+* **Probability**  
    *Primary Text:* [*A First Course in Probability* by Sheldon M. Ross](https://www.google.com/books/edition/A_First_Course_in_Probability/hHgpAQAAMAAJ?hl=en&gbpv=0&bsq=A%20First%20Course%20in%20Probability%20by%20Sheldon%20Ross)
 
    *Topics:* Conditional Probability, Expectation, Random Variables, Chebyshev’s Inequality

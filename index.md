@@ -5,32 +5,33 @@ title: "Ali Zare"
 
 # Academic & Technical Portfolio
 
-Bachelor in Mathematics at [University of Tehran](https://ut.ac.ir/en).
-
-Master student in Mathematics at [Tehran Polytechnic](https://aut.ac.ir/en).
-
-**[Curriculum Vitae (PDF)](resume/resume.pdf)**
+- **M.Sc. Student in Mathematics**, [Tehran Polytechnic (Amirkabir University of Technology)](https://aut.ac.ir/en)
+- **B.Sc. in Mathematics**, [University of Tehran](https://ut.ac.ir/en) — [**Detailed Coursework**](courseworks/mathematicalcourseworks.html)
 
 ---
 
-# Resume
-Download my Curriculum Vitae [here](resume/resume.pdf)
+## Curriculum Vitae
+
+Download my **[Curriculum Vitae (PDF)](resume/resume.pdf)**.
 
 ---
 
-#  Selected Projects
+## Selected Projects
 
-## Chaotic Cryptography (B.Sc. Thesis)
-Weakness of Baptista cryptosystem, and providing mathematical solution for each.
+### Chaotic Cryptography (B.Sc. Thesis)
+Analyzed weakness of Baptista cryptosystem, and provide mathematical solution for each.
 
-Advisor: [Gholamreza Rokni Lamouki](https://scholar.google.com/citations?user=u3GzOMEAAAAJ&hl=en)
+- **Advisor:** [Dr. Gholamreza Rokni Lamouki](https://scholar.google.com/citations?user=u3GzOMEAAAAJ&hl=en)
+- **Project Source:** [github.com/aliztty/Chaotic_Cryptography](https://github.com/aliztty/Chaotic_Cryptography)
 
-##  ATM Simulator
-Developed a GUI using python (Tkinter) bank accounts management script with backend database. [aliztty/Atmp](https://github.com/aliztty/Atmp)
+### ATM Simulator
+A python GUI, simulate bank accounts management with a basic backend database.
+
+- **Repository:** [github.com/aliztty/Atmp](https://github.com/aliztty/Atmp)
 
 ---
 
-#  Contact
+## Contact
 
 - **Academic Email:** [zare.ali@ut.ac.ir](mailto:zare.ali@ut.ac.ir)
 - **Personal Email:** [ali.zare.mh@gmail.com](mailto:ali.zare.mh@gmail.com)
